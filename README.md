@@ -160,4 +160,4 @@ Reaches goal 96.00%. Obtains an average return of 0.8672. Regret of 0.0000
 
 ## RESULT:
 
-Write your result here
+Thus the optimal policy for the given RL environment is found using SARSA-Learning and the state values are compared with the Monte Carlo method.
